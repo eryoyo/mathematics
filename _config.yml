@@ -75,7 +75,7 @@ gitalk:
   clientSecret: 3a721808f40690c33b62cecb8765bebbcf7158c2
   repo: mathematics
   owner: eryoyo
-  proxy:
+  proxy: https://cors-anywhere.herokuapp.com/https://github.com/login/oauth/access_token
 
 # 输入Google Analytics web tracking code
 google_analytics:
